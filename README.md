@@ -4,8 +4,8 @@ Pipe messages effortlessly with SimpleDiscordPipe.
 
 SimpleDiscordPipe displays messages in the Console and logs them in a data folder.
 
-![Console](https://raw.githubusercontent.com/Gabr3al/SimpleDiscordPipe/main/preview/console.png?token=GHSAT0AAAAAACPVM2GM4J657VWJJTDFTSWKZREKGZQ)
-![Files](https://raw.githubusercontent.com/Gabr3al/SimpleDiscordPipe/main/preview/Files.png?token=GHSAT0AAAAAACPVM2GMRFOTUB7OWLHEF5N4ZREKF5Q)
+![Console](https://raw.githubusercontent.com/Gabr3al/SimpleDiscordPipe/main/preview/console.png)
+![Files](https://raw.githubusercontent.com/Gabr3al/SimpleDiscordPipe/main/preview/Files.png)
 ## How to use
 - Step 1: Download the Repo
 - Step 2: Run ``npm i`` to install the required packages
