@@ -1,0 +1,19 @@
+{
+    "token":"YOUR_NONBOT_TOKEN",
+    "servers": [
+        {
+            "id": "SERVER_ID",
+            "channels": [
+                "CHANNEL_ID",
+                "CHANNEL_ID"
+            ]
+        },
+        {
+            "id": "ANOTHER_SERVER_ID",
+            "channels": [
+                "ANOTHER_CHANNEL_ID",
+                "ADD_AS_MANY_AS_YOU_WANT"
+            ]
+        }
+    ]
+}
