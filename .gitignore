@@ -3,6 +3,7 @@
 
 ### Node ###
 data/
+preview/
 data.txt
 # Logs
 logs
